@@ -1,4 +1,6 @@
-# bezier-squirc
+# squirc
+
+A module for generating superllipses and their hybridial supersmooth egg cousins into an svg path string.
 
 To install dependencies:
 
