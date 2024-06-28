@@ -1,0 +1,14 @@
+{
+  "name": "squirc",
+  "author": "nora2605",
+  "license": "MIT",
+  "description": "A module that generates SVG paths (line segments) for superellipses and hybridial squircular supersmootheggs with variable precision.",
+  "module": "mod.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
